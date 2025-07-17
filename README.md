@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Studying at the university of Canberra, I mainly upload scripts for small projects.</p>
+<p align="left">Studying at the university of Canberra, I mainly upload scripts for small projects, I have a vast knowledge in IT and engineering related fields. </p>
 
 ###
 
@@ -18,15 +18,43 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages</h3>
 
 ###
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bash,blender,c,cpp,cmake,css,debian,docker,flask,git,github,gitlab,go,html,java,js,jquery,linkedin,linux,md,matlab,mysql,nginx,opencv,php,powershell,py,pytorch,raspberrypi,ros,sqlite,tensorflow,ubuntu,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=py,arduino,c,cpp,bash,go,html,css,java,js,php,powershell,md" />
   </a>
 </p>
+
+<h3 align="left">🛠 Packages</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,jquery,opencv,pytorch,tensorflow" />
+  </a>
+</p>
+
+<h3 align="left">🛠 Software</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,cmake,git,github,gitlab,matlab,mysql,sqlite,nginx,opencv,vscode,blender" />
+  </a>
+</p>
+
+<h3 align="left">🛠 OS's</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,debian,ubuntu,linux,raspberrypi,ros" />
+  </a>
+</p>
+
+
+
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
